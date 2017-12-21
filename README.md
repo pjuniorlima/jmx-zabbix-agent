@@ -1,3 +1,7 @@
+# Simple jmx client
+
+collect mbeans of a java app used by zabbix-agent
+
 1. To build Client.java:
 	1. javac Client.java
 	1. jar cvfm Client.jar Manifest.mf Client.class
